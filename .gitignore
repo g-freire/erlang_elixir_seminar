@@ -1,0 +1,47 @@
+/_build
+/cover
+/deps
+erl_crash.dump
+*.ez
+
+# Common additions for various operating systems:
+# MacOS
+.DS_Store
+
+# Common additions for various editors:
+# JetBrains IDEA, IntelliJ, PyCharm, RubyMine etc.
+.idea 
+
+### Elixir ###
+/_build
+/cover
+/deps
+erl_crash.dump
+*.ez
+
+/_build
+/cover
+/deps
+erl_crash.dump
+*.ez
+/rel
+
+### Erlang ###
+.eunit
+deps
+*.beam
+*.plt
+ebin
+rel/example_project
+.concrete/DEV_MODE
+.rebar
+
+/_build
+/db
+/deps
+/*.ez
+erl_crash.dump
+/node_modules
+/priv/static/
+/config/prod.secret.exs
+/rel
